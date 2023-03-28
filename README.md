@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edarroudi, call me Erfan
+👋 Hi, I’m @edarroudi, call me Erfan
 
 I'm a freelance FullStack Dev mostly working on SharePoint / M365, .net, React and Azure projects. 
 My focus right now is on MS Search and AI related tasks - OpenAI / ChatGPT.
